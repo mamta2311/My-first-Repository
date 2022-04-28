@@ -1,0 +1,18 @@
+table{ 
+    
+    border:2px solid  red;
+    /*border-collapse:separate;*/
+    background-color: aquamarine;
+
+ 
+    
+}
+a{
+   font-size:small; 
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+td{
+    border:  1px solid;
+font-size: larger;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
